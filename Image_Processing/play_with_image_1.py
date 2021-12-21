@@ -3,7 +3,7 @@ import numpy as np
 
 
 class ImgPro:
-    """The ImgPro class contains of the useages of cvtColor, GaussianBlur, Canny, dilate, erode functions of cv2 lib"""
+    """The ImgPro class contains the useages of cvtColor, GaussianBlur, Canny, dilate, erode functions of cv2 lib"""
     def __init__(self, path):
         self.img = cv2.imread(path)
         self.kernel = np.ones((5, 5), np.uint8)

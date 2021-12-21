@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 
 class ImgRC:
+    """This class demonstrates how to crop and resize a image using opencv and numpy"""
     def __init__(self, path):
         self.image = cv2.imread(path)
 
