@@ -9,3 +9,6 @@
 
 ### Color_Detection [learning resource]
 > This folder contains color detection examples and related cv2 functions.
+
+### Object_Detection [learning resource]
+> This folder contains object detection including face detection examples.
