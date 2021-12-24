@@ -5,6 +5,9 @@ In this script we learned --
         i) How to make image from np-array [Metrix]
         ii) How to make the image colorfull
         iii) How to draw shapes on the image [line, rectangle, circle] 
+        
+    II) Run Function name 'texted' to see:
+        i) To write text/string in thye image
 """
 
 import cv2
