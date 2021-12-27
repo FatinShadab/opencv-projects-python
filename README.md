@@ -12,3 +12,6 @@
 
 ### Object_Detection [learning resource]
 > This folder contains object detection including face detection examples.
+
+### VIRTUAL_PAINT [Project]
+> Draw in a virtual canvas using this project [*** inspired by Murtaza's Workshop - Robotics and AI (youtube chennel)]
