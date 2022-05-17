@@ -16,5 +16,8 @@
 ### VideoRecorder [learning resource]
 > Recorde videos (without audio) in specific resolution & fps than saves the video in local machine
 
+### opencv_in_web [learning resource]
+> this folder contains code example of opencv integrations with python web freamworks
+
 ### VIRTUAL_PAINT [Project]
 > Draw in a virtual canvas using this project [*** inspired by Murtaza's Workshop - Robotics and AI (youtube chennel)]
